@@ -23,6 +23,4 @@ plt.title("Heavsine")
 plt.plot(x, y, 'r', lw =4)
 plt.show()
 
-print(x, y)
-
-print(x,y)
+print（x，y）
